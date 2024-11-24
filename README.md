@@ -1,0 +1,2 @@
+# SectionCalculator
+Calculadora de secciones
